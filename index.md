@@ -1,4 +1,4 @@
-Kalpesh Chhajed
+# All about me - Kalpesh Chhajed
 
 ### I am an Experienced professional with demonstrated history of working in the enterprise storage industry since last 9 years
 ### Skilled in various Storage Protocols like SCSI, SAS, SATA, NVMe and s3 compatible object storage etc. 
@@ -7,4 +7,8 @@ Kalpesh Chhajed
 
 ### I am based out of Pune, India
 
-### I just started my journey on open source and i'd love  helping others by contributing to open source softwares.
+### I just started my journey on open source and i'd love helping others by contributing to open source softwares.
+
+# Contact
+
+### Kalpeshchhajed14@gmail.com
